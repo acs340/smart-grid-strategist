@@ -39,6 +39,7 @@ Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
 </p1>
 
 3. `Flexumers`: Stromverbraucher, die gleichzeitig Strom erzeugen und verbrauchen. In den Forschungsszenarien ist diese Kategorie mit Photovoltaikanlagen und Batterien ausgestattet. Das heißt, mit der Möglichkeit, Strom zu speichern. Diese Kategorie ist außerdem mit zwei Stromverbrauchskomponenten ausgestattet, die über ein Überwachungssystem gesteuert werden können.
+   
 <p1 align="center">
   <img src="./Bilder/Flexumer.png" alt="Flexumer.png">
 </p1>
@@ -46,6 +47,7 @@ Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
 ## Verwendung
 
 **1. Simulator:** Wählen Sie den Typ des Endverbrauchers aus und passen Sie die Parameter bei Bedarf an, wie z. B. den jährlichen Stromverbrauch, den aktuellen Tarif, die Kapazität der Solarenergieerzeugung usw. Klicken Sie dann auf die Schaltfläche "Simulieren", um die Ergebnisse anzuzeigen.
+
 <p1 align="center">
   <img src="./Bilder/Simulator.png" alt="Simulator.png">
 </p1>
