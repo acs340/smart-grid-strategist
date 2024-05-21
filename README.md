@@ -4,6 +4,10 @@
 
 SGS (Smart Grid Strategist) ist eine Anwendung, die im Rahmen der Bachelorarbeit mit dem Titel "Effizientes Energiemanagement in deutschen Haushalten: Potenzialanalyse durch Integration von Smart-Meter-Daten und maschinellem Lernen im Kontext dynamischer Tarifmodelle" entwickelt wurde. Diese Anwendung bietet einen umfassenden Überblick über den Stromverbrauch in Haushalten und ermöglicht es den Benutzern, ihr individuelles Stromverbrauchsverhalten zu verstehen und Einspar- und Optimierungsmöglichkeiten zu identifizieren.
 
+<h1 align="center">
+  <img src="./Bilder/App-Module.png" alt="App-Module.png">
+</h1>
+
 ## Eigenschaften
 
 - **Simulator:** Die Anwendung verfügt über einen Simulator, der drei Kategorien von Endverbrauchern umfasst: Consumer, Prosumer und Flexumer. Jede Kategorie hat spezifische Merkmale, die es ermöglichen, ihr Verhalten in verschiedenen Szenarien zu simulieren.
