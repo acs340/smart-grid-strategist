@@ -30,18 +30,18 @@ Das Programm besteht aus vier Modulen:
 Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
 1. `Consumers`: Traditionelle Stromverbraucher, die Strom aus dem Netz abnehmen.
 <p1 align="center">
-  <img src="./Bilder/Consumer.png" alt="Consumer.png">
+  <img src="./Bilder/Consumer.png" alt="Consumer.png" width="950px">
 </p1>
 
 2. `Prosumers`: Stromverbraucher, die gleichzeitig Strom erzeugen und verbrauchen. In den Forschungsszenarien ist diese Kategorie mit Photovoltaikanlagen und ohne Batterien ausgestattet. Das heißt, ohne die Möglichkeit, Strom zu speichern.
 <p1 align="center">
-  <img src="./Bilder/Prosumer.png" alt="Prosumer.png">
+  <img src="./Bilder/Prosumer.png" alt="Prosumer.png" width="950px">
 </p1>
 
 3. `Flexumers`: Stromverbraucher, die gleichzeitig Strom erzeugen und verbrauchen. In den Forschungsszenarien ist diese Kategorie mit Photovoltaikanlagen und Batterien ausgestattet. Das heißt, mit der Möglichkeit, Strom zu speichern. Diese Kategorie ist außerdem mit zwei Stromverbrauchskomponenten ausgestattet, die über ein Überwachungssystem gesteuert werden können.
    
 <p1 align="center">
-  <img src="./Bilder/Flexumer.png" alt="Flexumer.png">
+  <img src="./Bilder/Flexumer.png" alt="Flexumer.png" width="950px">
 </p1>
 
 ## Verwendung
