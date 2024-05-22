@@ -52,7 +52,7 @@ Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
   <img src="./Bilder/Simulator.png" alt="Simulator.png">
 </p1>
 
-**2. Analyse:** Erkunden Sie die generierten Grafiken, um den Stromverbrauch, die Stromerzeugung, die Energiepreise und mehr besser zu verstehen.
+**2. Analyse:** Erkunden Sie die generierten Grafiken, um einen vollständigen Überblick über Stromverbrauch, Erzeugung und Energiepreise zu erhalten. Gewinnen Sie wertvolle Erkenntnisse und verstehen Sie die wichtigsten Trends und Zusammenhänge auf einen Blick.
 
 <p1 align="center">
   <img src="./Bilder/Analyse.png" alt="Analyse.png">
