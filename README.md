@@ -67,6 +67,7 @@ Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
 3. Starte die Anwendung: `python app_launcher.py`
 ## Verwendete Technologien
 
+- Jupyter Notebook (Interaktive Entwicklungsumgebung für Python)
 - Python
 - Dash (Framework zur Erstellung interaktiver Web-Benutzeroberflächen)
 - Plotly (Bibliothek zur Erstellung interaktiver Grafiken)
