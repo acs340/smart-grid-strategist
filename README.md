@@ -46,13 +46,15 @@ Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
 
 ## Verwendung
 
-**1. Simulator:** Wählen Sie den Typ des Endverbrauchers aus und passen Sie die Parameter bei Bedarf an, wie z. B. den jährlichen Stromverbrauch, den aktuellen Tarif, die Kapazität der Solarenergieerzeugung usw. Klicken Sie dann auf die Schaltfläche "Simulieren", um die Ergebnisse anzuzeigen.
+**1. Anwendung:** Führen Sie die Anwendung über den App-Launcher aus. Dies startet die ETL-Prozesse und die Simulationsanwendung. Öffnen Sie anschließend http://localhost:8050 in Ihrem Browser, um die Anwendung in voller Bildschirmgröße zu sehen.
+
+**2. Simulator:** Wählen Sie den Typ des Endverbrauchers aus und passen Sie die Parameter bei Bedarf an, wie z. B. den jährlichen Stromverbrauch, den aktuellen Tarif, die Kapazität der Solarenergieerzeugung usw. Klicken Sie dann auf die Schaltfläche "Simulieren", um die Ergebnisse anzuzeigen.
 
 <p1 align="center">
   <img src="./Bilder/Simulator.png" alt="Simulator.png">
 </p1>
 
-**2. Analyse:** Erkunden Sie die generierten Grafiken, um einen vollständigen Überblick über Stromverbrauch, Erzeugung und Energiepreise zu erhalten. Gewinnen Sie wertvolle Erkenntnisse und verstehen Sie die wichtigsten Trends und Zusammenhänge auf einen Blick.
+**3. Analyse:** Erkunden Sie die generierten Grafiken, um einen vollständigen Überblick über Stromverbrauch, Erzeugung und Energiepreise zu erhalten. Gewinnen Sie wertvolle Erkenntnisse und verstehen Sie die wichtigsten Trends und Zusammenhänge auf einen Blick.
 
 <p1 align="center">
   <img src="./Bilder/Analyse.png" alt="Analyse.png">
