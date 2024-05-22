@@ -64,7 +64,7 @@ Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
 
 1. Klone dieses Repository: `git clone https://github.com/acs340/smart-grid-strategist.git`
 2. Installiere die Abhängigkeiten: `pip install -r requirements.txt`
-3. Starte die Anwendung: `python app.py`
+3. Starte die Anwendung: `python app_launcher.py`
 ## Verwendete Technologien
 
 - Python
