@@ -18,7 +18,7 @@ Das Programm besteht aus vier Modulen:
 6. `Analyse`: Dieses Modul generiert verschiedene Charts mit den Simulationsdaten, mit denen der Nutzer die Simulationsergebnisse besser analysieren und bewerten kann.
 
 <p align="center">
-  <img src="./Bilder/App-Module.png" alt="App-Module.png">
+  <img src=".SGS/Bilder/App-Module.png" alt="App-Module.png">
 <p>
 
 ## Eigenschaften der Simulationen
@@ -30,18 +30,18 @@ Das Programm besteht aus vier Modulen:
 Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
 1. `Consumers`: Traditionelle Stromverbraucher, die Strom aus dem Netz abnehmen.
 <p1 align="center">
-  <img src="./Bilder/Consumer.png" alt="Consumer.png" width="950px">
+  <img src=".SGS/Bilder/Consumer.png" alt="Consumer.png" width="950px">
 </p1>
 
 2. `Prosumers`: Stromverbraucher, die gleichzeitig Strom erzeugen und verbrauchen. In den Forschungsszenarien ist diese Kategorie mit Photovoltaikanlagen und ohne Batterien ausgestattet. Das heißt, ohne die Möglichkeit, Strom zu speichern.
 <p1 align="center">
-  <img src="./Bilder/Prosumer.png" alt="Prosumer.png" width="950px">
+  <img src=".SGS/Bilder/Prosumer.png" alt="Prosumer.png" width="950px">
 </p1>
 
 3. `Flexumers`: Stromverbraucher, die gleichzeitig Strom erzeugen und verbrauchen. In den Forschungsszenarien ist diese Kategorie mit Photovoltaikanlagen und Batterien ausgestattet. Das heißt, mit der Möglichkeit, Strom zu speichern. Diese Kategorie ist außerdem mit zwei Stromverbrauchskomponenten ausgestattet, die über ein Überwachungssystem gesteuert werden können.
    
 <p1 align="center">
-  <img src="./Bilder/Flexumer.png" alt="Flexumer.png" width="950px">
+  <img src=".SGS/Bilder/Flexumer.png" alt="Flexumer.png" width="950px">
 </p1>
 
 ## Verwendung
@@ -51,13 +51,13 @@ Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
 **2. Simulator:** Wählen Sie den Typ des Endverbrauchers aus und passen Sie die Parameter bei Bedarf an, wie z. B. den jährlichen Stromverbrauch, den aktuellen Tarif, die Kapazität der Solarenergieerzeugung usw. Klicken Sie dann auf die Schaltfläche "Simulieren", um die Ergebnisse anzuzeigen.
 
 <p1 align="center">
-  <img src="./Bilder/Simulator.png" alt="Simulator.png">
+  <img src=".SGS/Bilder/Simulator.png" alt="Simulator.png">
 </p1>
 
 **3. Analyse:** Erkunden Sie die generierten Grafiken, um einen vollständigen Überblick über Stromverbrauch, Erzeugung und Energiepreise zu erhalten. Gewinnen Sie wertvolle Erkenntnisse und verstehen Sie die wichtigsten Trends und Zusammenhänge auf einen Blick.
 
 <p1 align="center">
-  <img src="./Bilder/Analyse.png" alt="Analyse.png">
+  <img src=".SGS/Bilder/Analyse.png" alt="Analyse.png">
 </p1>
 
 ## Installation
