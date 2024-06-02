@@ -3,4 +3,4 @@ dash-bootstrap-components
 plotly
 pandas
 openpyxl
-datatime64
+numpy
