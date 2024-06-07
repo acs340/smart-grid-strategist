@@ -13,7 +13,7 @@ Das Programm besteht aus vier Modulen:
    
 3. `ETL-Prozess`: Dieses Modul ist für das Extrahieren, Transformieren und Laden von Daten aus dem Datenquellenmodul zuständig. Nach dem ETL-Prozess dienen die verarbeiteten Daten als Referenzparameter für die Simulationen.
    
-4. `Simulations-App`: In diesem Modul werden die im ETL-Prozess verarbeiteten Daten übertragen und für die Simulationen verwendet. Die Simulations-App ermöglicht es dem Nutzer, einige Parameter einzustellen, die die Simulationsergebnisse beeinflussen, wie z. B. den jährlichen Stromverbrauch eines Haushalts und die kWp einer PV-Anlage. Die Simulationsergebnisse werden an die nächste Phase zur Analyse weitergeleitet.
+4. `Simulations-App`: In diesem Modul werden die im ETL-Prozess verarbeiteten Daten übertragen und für Simulationen und Vorhersagen mit Methoden des maschinellen Lernens verwendet. Die Simulationsanwendung ermöglicht es dem Benutzer, über die User Interfaces einige Parameter einzustellen, die die Simulationsergebnisse beeinflussen, wie zum Beispiel den jährlichen Stromverbrauch eines Haushalts und die kWp einer PV-Anlage. Die Simulationsergebnisse werden an die nächste Phase zur Analyse weitergeleitet.
    
 6. `Analyse`: Dieses Modul generiert verschiedene Charts mit den Simulationsdaten, mit denen der Nutzer die Simulationsergebnisse besser analysieren und bewerten kann.
 
