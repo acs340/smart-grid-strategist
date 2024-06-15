@@ -38,7 +38,7 @@ Die Simulationen umfassen drei Kategorien von Letztverbrauchern:
   <img src="SGS/Bilder/Prosumer.png" alt="Prosumer.png" width="950px">
 </p1>
 
-3. `Flexumers`: Stromverbraucher, die gleichzeitig Strom erzeugen und verbrauchen. In den Forschungsszenarien ist diese Kategorie mit Photovoltaikanlagen und Batterien ausgestattet. Das heißt, mit der Möglichkeit, Strom zu speichern. Diese Kategorie ist außerdem mit zwei Stromverbrauchskomponenten ausgestattet, die über ein Überwachungssystem gesteuert werden können.
+3. `Flexumers`: Stromverbraucher, die gleichzeitig Strom erzeugen und verbrauchen. In den Forschungsszenarien ist diese Kategorie mit Photovoltaikanlagen und Batterien ausgestattet. Das heißt, mit der Möglichkeit, Strom zu speichern.
    
 <p1 align="center">
   <img src="SGS/Bilder/Flexumer.png" alt="Flexumer.png" width="950px">
